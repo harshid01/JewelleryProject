@@ -1,0 +1,7 @@
+<!-- Bootstrap JS -->
+<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/js/bootstrap.min.js"></script>
+<!-- Custom JS -->
+<script src="../javascript/main.js"></script>
+</body>
+</html>
