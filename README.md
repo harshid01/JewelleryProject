@@ -139,3 +139,11 @@ This project demonstrates practical implementation of **Full Stack Web Developme
 | <img src="https://github.com/user-attachments/assets/c58703b0-eb93-4c76-b05c-71b3cbea810c" width="100%"> | <img src="https://github.com/user-attachments/assets/53b12220-c31e-4e4c-b773-5a6a203d326e" width="100%"> |
 
 ---
+
+<div align="center">
+
+### ⭐ If you found this project useful, don't forget to Star the repository!
+
+Made with ❤️ by **Harshid Panchal**
+
+</div>
