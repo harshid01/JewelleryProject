@@ -106,3 +106,36 @@ This project demonstrates practical implementation of **Full Stack Web Developme
 - Portfolio-Ready Project
 
 ---
+# 📸 Screenshots
+
+### 🏠 Home Page & Product Collection
+
+| Home Page | Product Collection |
+|------------|--------------------|
+| <img src="https://github.com/user-attachments/assets/f157bf91-6a76-4e30-8831-f50f6b04ee91" width="100%"> | <img src="https://github.com/user-attachments/assets/abbe7c6c-bb78-4e4b-a235-78e457fa5e64" width="100%"> |
+
+---
+
+### 💍 Product Details & Shopping Cart
+
+| Product Details | Shopping Cart |
+|-----------------|---------------|
+| <img src="https://github.com/user-attachments/assets/63df20b8-12ff-4850-a6a0-78c3de814f82" width="100%"> | <img src="https://github.com/user-attachments/assets/a350df25-11df-4d89-8793-7f666dcab2a9" width="100%"> |
+
+---
+
+### 🛒 Checkout & Customer Dashboard
+
+| Checkout | Customer Dashboard |
+|----------|--------------------|
+| <img src="https://github.com/user-attachments/assets/6980001f-32f6-496a-9313-3e63ae326d2c" width="100%"> | <img src="https://github.com/user-attachments/assets/310ea136-0a26-49a2-bf12-cc151a5bb034" width="100%"> |
+
+---
+
+### ⚙️ Admin Dashboard & Product Management
+
+| Admin Dashboard | Product Management |
+|-----------------|--------------------|
+| <img src="https://github.com/user-attachments/assets/c58703b0-eb93-4c76-b05c-71b3cbea810c" width="100%"> | <img src="https://github.com/user-attachments/assets/53b12220-c31e-4e4c-b773-5a6a203d326e" width="100%"> |
+
+---
