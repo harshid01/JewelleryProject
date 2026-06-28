@@ -140,6 +140,26 @@ This project demonstrates practical implementation of **Full Stack Web Developme
 
 ---
 
+# 👨‍💻 Developer
+
+## Harshid Panchal
+
+**M.Sc. Information Technology**  
+**Specialization:** Data Science & Artificial Intelligence | Full Stack Development
+
+- **LinkedIn:** https://www.linkedin.com/in/harshid-engineer
+- **GitHub:** https://github.com/harshid01
+
+---
+
+# 📄 License
+
+This project is developed for **educational and portfolio purposes**.
+
+Licensed under the **MIT License**.
+
+---
+
 <div align="center">
 
 ### ⭐ If you found this project useful, don't forget to Star the repository!
