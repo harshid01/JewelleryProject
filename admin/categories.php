@@ -1,3 +1,4 @@
+<!-- Main catagorires -->
 <?php
 include 'includes/master-top.php';
 include 'includes/sidebar.php';
